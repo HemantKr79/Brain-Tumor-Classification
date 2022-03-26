@@ -5,6 +5,6 @@ Brain Tumor is the uncontrollable and irregular growth of the cells in the human
 Dataset: https://figshare.com/articles/dataset/brain_tumor_dataset/1512427?file=7953679
 
 ## Results
-CNN Validation Accuracy: 95.10603588907016%
-CNN-RF Validation Accuracy: 95.92169657422512%
-CNN-SVM Validation Accuracy: 98.85807504078304%
+CNN Validation Accuracy: 95.10603588907016% \n
+CNN-RF Validation Accuracy: 95.92169657422512% \n
+CNN-SVM Validation Accuracy: 98.85807504078304% \n
